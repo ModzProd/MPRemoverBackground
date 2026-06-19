@@ -6,7 +6,7 @@ on:
       imagem_entrada:
         description: 'Caminho da imagem original (ex: imagens/minha_foto.jpg)'
         required: true
-        default: 'input/foto.jpg'
+        default: 'input/d19ddf2f54daa059.png'
       pasta_saida:
         description: 'Pasta onde a imagem sem fundo será salva (ex: output/)'
         required: true
